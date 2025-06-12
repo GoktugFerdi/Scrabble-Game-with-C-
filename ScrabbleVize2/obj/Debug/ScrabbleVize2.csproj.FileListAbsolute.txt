@@ -1,0 +1,7 @@
+C:\Users\Göktuğ\OneDrive\Belgeler\C#  projects\ScrabbleVize2\bin\Debug\ScrabbleVize2.exe.config
+C:\Users\Göktuğ\OneDrive\Belgeler\C#  projects\ScrabbleVize2\bin\Debug\ScrabbleVize2.exe
+C:\Users\Göktuğ\OneDrive\Belgeler\C#  projects\ScrabbleVize2\bin\Debug\ScrabbleVize2.pdb
+C:\Users\Göktuğ\OneDrive\Belgeler\C#  projects\ScrabbleVize2\obj\Debug\ScrabbleVize2.csproj.AssemblyReference.cache
+C:\Users\Göktuğ\OneDrive\Belgeler\C#  projects\ScrabbleVize2\obj\Debug\ScrabbleVize2.csproj.CoreCompileInputs.cache
+C:\Users\Göktuğ\OneDrive\Belgeler\C#  projects\ScrabbleVize2\obj\Debug\ScrabbleVize2.exe
+C:\Users\Göktuğ\OneDrive\Belgeler\C#  projects\ScrabbleVize2\obj\Debug\ScrabbleVize2.pdb
