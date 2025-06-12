@@ -1,0 +1,11 @@
+The dictionary used in this game is in Turkish, so you must use Turkish words for Scrabble.
+First, enter your name, surname, and age (as an integer). Other players must do the same.
+At the start of the game, you'll receive 7 random letters. If you're lucky, one or two of them could be a joker.
+After that, you must write a word using your letters. If you can't make a word, you can type 'PAS' to pass your turn.
+If you can make a word, you must select the coordinates (X, Y) for your word and choose its direction. Be careful with the K2, K3, H2, and H3 joker tiles if you place your word on these jokers, you'll receive extra points.
+Each letter has its own point value, and joker characters are worth zero points. There are 2 joker characters in the game.
+
+I couldn't design a tile exchange system for the game because I ran out of time. Maybe I'll design one in the future.
+If you get stuck during the game, try submitting a single letter from your hand, like A, B, or E some letters as standalone words exist in the dictionary.
+
+If you play this game in your native language, you can change the dictionary or add a new one. Also, you can modify my code to develop this basic program further.
